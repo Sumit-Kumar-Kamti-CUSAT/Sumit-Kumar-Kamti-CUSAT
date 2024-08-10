@@ -11,3 +11,10 @@ Throughout my career, I've collaborated with a diverse range of clients, from dy
 When I'm not coding, I'm actively exploring the latest in web technologies and mentoring budding developers. My enthusiasm for tackling new challenges and pushing the boundaries of what's possible on the web drives me to continuously expand my skill set and embrace innovative solutions.
 
 Let’s connect and create something extraordinary together!
+Welcome to my corner of GitHub! Here's a little about what I'm up to:
+
+🔭 I’m currently working in R & D Team at Gapblue Software Labs Pvt Ltd where I contribute to building cutting-edge web applications using Angular Html Css Java Script.
+💬 Feel free to ask me about HTML,CSS, JavaScript and C#. I love discussing technology and sharing knowledge.
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sumit-kumar-kamti/)
+📄 Latest Resume can be found here: [Sumit Kumar Kamti Latest-Resume](https://drive.google.com/file/d/1EGJ-ZbDZsy5OdHjvnBbzxiEptUSip2OH/view?usp=sharing)
+😄 Pronouns: He/Him (Pronunciation: [Sumit Kumar] [Kamti])
